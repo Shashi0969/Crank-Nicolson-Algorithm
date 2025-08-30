@@ -3,7 +3,8 @@
 This project simulates the time evolution of a quantum particle in a 1D infinite potential well using the Crank–Nicolson method. The simulation visualizes the probability density, real part, and imaginary part of the wavefunction through 2D/3D plots and animations.
 
 I have designed the simulation inspired by Adib Kabir's [Numerical Simulation of the Time-Dependent Schrödinger Equation Using the Crank-Nicolson Method](https://arxiv.org/pdf/2410.10060)
-I have used Python libraries: NumPy, SciPy, and Matplotlib
+
+Python libraries used: NumPy, SciPy, and Matplotlib
 ## Features 
 - Numerical solution of the time-dependent Schrödinger equation (TDSE).
 - Implementation of the Crank–Nicolson scheme with sparse matrices for efficiency.
