@@ -45,7 +45,7 @@ If you enter 1, you can choose:
 - **3D Plot**: Real vs imaginary part evolution in 3D space.
 - **Animation**: Continuous time evolution of the wavefunction.
 
-- ![Figure_2](outputs/Figure_2.png)
+- ![Figure_2](Outputs/Figure_2.png)
 ## Notes
 - Default parameters simulate an electron in a 1D box of length $10^{-8}$ m.
 - You can modify wave packet parameters (sigma, $k_0$, etc.) in the Start() function.
