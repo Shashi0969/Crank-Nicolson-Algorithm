@@ -16,7 +16,7 @@ Python libraries used: NumPy, SciPy, and Matplotlib
 ## Requirements 
 Ensure you have the following Python packages installed : 
 ```
-pip install numpy matplotlib scipy
+python -m pip install numpy matplotlib scipy
 ```
 Additionally, ffmpeg is required if you want to save animations as videos.
 ## How to Run 
