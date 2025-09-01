@@ -43,8 +43,7 @@ If you enter 1, you can choose:
 ### Outputs
 - **2D Plot**: Probability density, real and imaginary parts at a specific timestep.
   <img src="Outputs/Figure_2.png" alt="Figure_2" width="50%"/>
-  ![Figure_2](Outputs/Figure_2.png)
-  ![Figure_4](Outputs/Figure_4.png)
+  <img src="Outputs/Figure_4.png" alt="Figure_4" width="50%"/>
 - **3D Plot**: Real vs imaginary part evolution in 3D space.
   ![Figure_3](Outputs/Figure_3.png)
   ![Figure_5](Outputs/Figure_5.png)
