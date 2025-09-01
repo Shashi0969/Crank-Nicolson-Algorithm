@@ -42,8 +42,9 @@ If you enter 1, you can choose:
 6. 3D animation of evolution
 ### Outputs
 - **2D Plot**: Probability density, real and imaginary parts at a specific timestep.
-  <img src="Outputs/Figure_2.png" alt="Figure_2" width="50%"/>
-  <img src="Outputs/Figure_4.png" alt="Figure_4" width="50%"/>
+  <img src="Outputs/Figure_2.png" alt="Figure_2" width="48%" style="display:inline-block; margin-right:2%;"/>
+  <img src="Outputs/Figure_4.png" alt="Figure_4" width="48%" style="display:inline-block;"/>
+
 - **3D Plot**: Real vs imaginary part evolution in 3D space.
   ![Figure_3](Outputs/Figure_3.png)
   ![Figure_5](Outputs/Figure_5.png)
