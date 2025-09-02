@@ -39,11 +39,26 @@ If you enter 1, you can choose:
 3. 2D plots at 500th, 1000th, 1500th, and 2000th steps
 4. 3D plots at 500th, 1000th, 1500th, and 2000th steps
 5. 2D animation of evolution
-6. 3D animation of evolution
-### Example Outputs
-- **2D Plot**: Probability density, real and imaginary parts at a specific timestep.
-- **3D Plot**: Real vs imaginary part evolution in 3D space.
-- **Animation**: Continuous time evolution of the wavefunction.
+7. 3D animation of evolution
+### Outputs: 
+  <div align="center">
+    <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+      <img src="Outputs/Figure_2.png" alt="Figure_2" style="width:48%;"/>
+      <img src="Outputs/Figure_4.png" alt="Figure_4" style="width:48%;"/>
+    </div>
+      2D Plot: Probability density, real and imaginary parts at a specific timestep.
+    <div style="display: flex; justify-content: space-between;">
+      <img src="Outputs/Figure_3.png" alt="Figure_3" style="width:48%;"/>
+      <img src="Outputs/Figure_5.png" alt="Figure_5" style="width:48%;"/>
+    </div>
+      3D Plot: Real vs imaginary part evolution in 3D space.
+  </div>
+[![2D Animation](Outputs/thumbnail_2D.png)](https://drive.google.com/file/d/1A8jI5QGZsObaHfwee_EqDFXKVeiyhvhx/view?usp=drive_link)
+[![3D Animation](Outputs/thumbnail_3D.png)](https://drive.google.com/file/d/1e21X9uH-5Ih3wdVBxry3Pav4X-x1uFd8/view?usp=drive_link)
+
+  
+**Animation**: Continuous time evolution of the wavefunction.
+
 ## Notes
 - Default parameters simulate an electron in a 1D box of length $10^{-8}$ m.
 - You can modify wave packet parameters (sigma, $k_0$, etc.) in the Start() function.
