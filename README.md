@@ -42,22 +42,30 @@ If you enter 1, you can choose:
 7. 3D animation of evolution
 ### Outputs: 
   <div align="center">
+      2D Plot: Probability density, real and imaginary parts at a specific timestep.
     <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
       <img src="Outputs/Figure_2.png" alt="Figure_2" style="width:48%;"/>
       <img src="Outputs/Figure_4.png" alt="Figure_4" style="width:48%;"/>
     </div>
-      2D Plot: Probability density, real and imaginary parts at a specific timestep.
+      3D Plot: Real vs imaginary part evolution in 3D space.
     <div style="display: flex; justify-content: space-between;">
       <img src="Outputs/Figure_3.png" alt="Figure_3" style="width:48%;"/>
       <img src="Outputs/Figure_5.png" alt="Figure_5" style="width:48%;"/>
     </div>
-      3D Plot: Real vs imaginary part evolution in 3D space.
+      
   </div>
-[![2D Animation](Outputs/thumbnail_2D.png)](https://drive.google.com/file/d/1A8jI5QGZsObaHfwee_EqDFXKVeiyhvhx/view?usp=drive_link)
-[![3D Animation](Outputs/thumbnail_3D.png)](https://drive.google.com/file/d/1e21X9uH-5Ih3wdVBxry3Pav4X-x1uFd8/view?usp=drive_link)
-
-  
-**Animation**: Continuous time evolution of the wavefunction.
+  <div align="center">
+    Animation: Continuous time evolution of the wavefunction.
+    <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
+      <a href="https://drive.google.com/file/d/1A8jI5QGZsObaHfwee_EqDFXKVeiyhvhx/view?usp=drive_link" target="_blank">
+        <img src="Thumbnails/Thumbnail_2D.png" alt="2D Animation" style="width:42%;"/>
+      </a>
+      <a href="https://drive.google.com/file/d/1e21X9uH-5Ih3wdVBxry3Pav4X-x1uFd8/view?usp=drive_link" target="_blank">
+        <img src="Thumbnails/Thumbnail_3D.png" alt="3D Animation" style="width:51.9%;"/>
+      </a>
+    </div>
+    
+  </div>
 
 ## Notes
 - Default parameters simulate an electron in a 1D box of length $10^{-8}$ m.
