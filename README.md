@@ -15,22 +15,22 @@ Python libraries used: NumPy, SciPy, and Matplotlib
   - Option to save animations as .mp4 files (requires ffmpeg).
 ## Requirements 
 Ensure you have the following Python packages installed : 
-```
+```python
 python -m pip install numpy matplotlib scipy
 ```
 Additionally, ffmpeg is required if you want to save animations as videos.
 ## How to Run 
 Clone the repository:
-```
+```python
 git clone https://github.com/Shashi0969/Crank-Nicolson-Algorithm.git
 cd Crank-Nicolson-Algorithm
 ```
 Run the script:
-```
+```python
 Particle_in_a_1D_box.py
 ```
 You will be prompted with options:
-```
+```python
 Enter '1' to start and '0' to terminate :
 ```
 If you enter 1, you can choose:
